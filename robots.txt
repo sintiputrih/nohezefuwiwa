@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://nohezefuwiwa.pages.dev/sitemap.xml
